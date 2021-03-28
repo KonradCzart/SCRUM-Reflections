@@ -1,0 +1,2 @@
+Test Driven Development - sposób wytwarzania opgoramowania, 
+z uwzględnieniem że oprogramowanie wraz z testami powstają jednocześnie
