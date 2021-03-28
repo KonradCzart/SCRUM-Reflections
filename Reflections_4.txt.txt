@@ -1,0 +1,2 @@
+Kanban polega na dzieleniu pracy na mniejsze części i określaniu czasu cyklu w jakim dane zadanie musi być ukończone.
+Scrum opiera się na iteracjach(2-4tygodniowych). Wynikiem każdej iteracji powinienna być kolejna działająca wersja oprogramowania. 
