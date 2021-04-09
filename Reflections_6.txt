@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dadsda
 
 sdsada
@@ -5,3 +6,7 @@ s
 dsad
 a
 sdasd
+=======
+GitHub - change
+GitHub - change
+>>>>>>> origin/master
